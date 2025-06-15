@@ -1,0 +1,86 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+학사 상담 시스템 모듈 패키지
+기본 RAG 시스템 기반의 모듈화된 구조
+"""
+
+from .retrieval_interface import (
+    RetrievalInterface,
+    SearchStrategy,
+    SemanticSearchStrategy,
+    HierarchicalSearchStrategy,
+    create_semantic_retrieval_interface,
+    create_hierarchical_retrieval_interface
+)
+
+from .document_manager import (
+    DocumentManager
+)
+
+from .academic_analyzer import (
+    AcademicAnalyzer
+)
+
+from .context_builder import (
+    ContextBuilder,
+    create_context_builder
+)
+
+from .model_service import (
+    ModelService
+)
+
+from .transcript_summarizer import (
+    TranscriptSummarizer
+)
+
+from .academic_service import (
+    AcademicCounselingService,
+    create_academic_service
+)
+
+from .test_questions import (
+    TEST_QUESTIONS,
+    get_all_transcript_questions,
+    get_general_questions
+)
+
+__version__ = "2.0.0"
+__author__ = "Academic Counseling System Team"
+__description__ = "한국어 학사 상담 시스템 - 기본 RAG 기반"
+
+__all__ = [
+    # Retrieval Interface
+    "RetrievalInterface",
+    "SearchStrategy", 
+    "SemanticSearchStrategy",
+    "HierarchicalSearchStrategy",
+    "create_semantic_retrieval_interface",
+    "create_hierarchical_retrieval_interface",
+    
+    # Document Manager
+    "DocumentManager",
+    
+    # Academic Analyzer
+    "AcademicAnalyzer",
+    
+    # Context Builder
+    "ContextBuilder",
+    "create_context_builder",
+    
+    # Model Service
+    "ModelService",
+    
+    # Transcript Summarizer
+    "TranscriptSummarizer",
+    
+    # Academic Service
+    "AcademicCounselingService",
+    "create_academic_service",
+    
+    # Test Questions
+    "TEST_QUESTIONS",
+    "get_all_transcript_questions",
+    "get_general_questions"
+] 
