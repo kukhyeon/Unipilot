@@ -1,0 +1,436 @@
+{
+  "ground_truth": {
+    "header": {
+      "id": "12190002",
+      "name": [
+        "류선민"
+      ],
+      "major": "전기전자공학부 전기전자공학전공"
+    },
+    "semesters": [
+      {
+        "year_term": "2019년도 1학기",
+        "subjects": [
+          {
+            "course_number": "GEB1112",
+            "name": "크로스오버 1 : 인간의 탐색",
+            "credit": 2,
+            "grade": "A0",
+            "category": "교필"
+          },
+          {
+            "course_number": "GEB1116",
+            "name": "프로네시스 세미나",
+            "credit": 2,
+            "grade": "A+",
+            "category": "교필"
+          },
+          {
+            "course_number": "GEE2015",
+            "name": "기초수학",
+            "credit": 3,
+            "grade": "A0",
+            "category": "교선"
+          },
+          {
+            "course_number": "PHY1001",
+            "name": "물리학 1",
+            "credit": 3,
+            "grade": "B0",
+            "category": "교필"
+          },
+          {
+            "course_number": "PHY1003",
+            "name": "물리학실험 1",
+            "credit": 1,
+            "grade": "A+",
+            "category": "교필"
+          },
+          {
+            "course_number": "GED2001",
+            "name": "역사 속의 라이벌",
+            "credit": 3,
+            "grade": "P",
+            "category": "교선"
+          },
+          {
+            "course_number": "GEB1143",
+            "name": "미래사회와 소프트웨어-IT계열",
+            "credit": 3,
+            "grade": "B0",
+            "category": "교필"
+          }
+        ],
+        "apply": 17,
+        "earned": 17,
+        "total": 51.5,
+        "gpa": 3.68
+      },
+      {
+        "year_term": "2019년도 2학기",
+        "subjects": [
+          {
+            "course_number": "GEB1126",
+            "name": "문제해결을 위한 글쓰기",
+            "credit": 3,
+            "grade": "B0",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE1001",
+            "name": "정보통신입문",
+            "credit": 3,
+            "grade": "C0",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE1003",
+            "name": "프로그래밍 기초",
+            "credit": 3,
+            "grade": "A0",
+            "category": "전필"
+          },
+          {
+            "course_number": "MTH1001",
+            "name": "일반수학 1",
+            "credit": 3,
+            "grade": "B0",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE3014",
+            "name": "오퍼레이팅시스템",
+            "credit": 3,
+            "grade": "B+",
+            "category": "전선"
+          }
+        ],
+        "apply": 15,
+        "earned": 15,
+        "total": 46.5,
+        "gpa": 3.1
+      },
+      {
+        "year_term": "2020년도 1학기",
+        "subjects": [
+          {
+            "course_number": "ACE2101",
+            "name": "공업수학 1",
+            "credit": 3,
+            "grade": "P",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE1004",
+            "name": "객체지향프로그래밍",
+            "credit": 3,
+            "grade": "B0",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE1002",
+            "name": "창의적 정보통신공학설계",
+            "credit": 3,
+            "grade": "A0",
+            "category": "전필"
+          },
+          {
+            "course_number": "ACE2105",
+            "name": "선형대수",
+            "credit": 3,
+            "grade": "C0",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE2006",
+            "name": "정보통신기초설계/실습 1",
+            "credit": 1,
+            "grade": "A+",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE3104",
+            "name": "반도체공학",
+            "credit": 3,
+            "grade": "B+",
+            "category": "전선"
+          }
+        ],
+        "apply": 16,
+        "earned": 16,
+        "total": 42.0,
+        "gpa": 3.23
+      },
+      {
+        "year_term": "2020년도 2학기",
+        "subjects": [
+          {
+            "course_number": "PHY1004",
+            "name": "물리학실험 2",
+            "credit": 1,
+            "grade": "A+",
+            "category": "교필"
+          },
+          {
+            "course_number": "ACE2102",
+            "name": "공업수학 2",
+            "credit": 3,
+            "grade": "P",
+            "category": "교필"
+          },
+          {
+            "course_number": "GEE4013",
+            "name": "인하특강 : CEO와 기업가정신",
+            "credit": 2,
+            "grade": "B+",
+            "category": "교선"
+          },
+          {
+            "course_number": "GED1002",
+            "name": "공학윤리와 토론",
+            "credit": 3,
+            "grade": "B0",
+            "category": "교선"
+          },
+          {
+            "course_number": "ICE3001",
+            "name": "신호및시스템",
+            "credit": 3,
+            "grade": "B+",
+            "category": "전필"
+          },
+          {
+            "course_number": "PHY1002",
+            "name": "물리학 2",
+            "credit": 3,
+            "grade": "C0",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE2002",
+            "name": "회로이론",
+            "credit": 3,
+            "grade": "C+",
+            "category": "전필"
+          }
+        ],
+        "apply": 18,
+        "earned": 18,
+        "total": 44.5,
+        "gpa": 2.97
+      },
+      {
+        "year_term": "2021년도 1학기",
+        "subjects": [
+          {
+            "course_number": "ICE3013",
+            "name": "시스템프로그래밍",
+            "credit": 3,
+            "grade": "C+",
+            "category": "전선"
+          },
+          {
+            "course_number": "ICE4010",
+            "name": "이동통신",
+            "credit": 3,
+            "grade": "C0",
+            "category": "전선"
+          },
+          {
+            "course_number": "ACE1204",
+            "name": "생명과학",
+            "credit": 4,
+            "grade": "A0",
+            "category": "교필"
+          },
+          {
+            "course_number": "GEB1114",
+            "name": "크로스오버 3 : 사회의 탐색",
+            "credit": 2,
+            "grade": "P",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE2004",
+            "name": "자료구조론",
+            "credit": 3,
+            "grade": "B0",
+            "category": "전필"
+          },
+          {
+            "course_number": "GEE4026",
+            "name": "성공하는 비즈니스 모델 개발",
+            "credit": 3,
+            "grade": "C+",
+            "category": "교선"
+          }
+        ],
+        "apply": 18,
+        "earned": 18,
+        "total": 46.0,
+        "gpa": 2.88
+      },
+      {
+        "year_term": "2021년도 2학기",
+        "subjects": [
+          {
+            "course_number": "ICE2013",
+            "name": "객체지향프로그래밍 응용",
+            "credit": 3,
+            "grade": "C0",
+            "category": "전선"
+          },
+          {
+            "course_number": "ICE2007",
+            "name": "정보통신기초설계/실습 2",
+            "credit": 1,
+            "grade": "B+",
+            "category": "전필"
+          },
+          {
+            "course_number": "MTH1002",
+            "name": "일반수학 2",
+            "credit": 3,
+            "grade": "B0",
+            "category": "교필"
+          },
+          {
+            "course_number": "GED4014",
+            "name": "독서세미나 : 사회, 제도, 세계",
+            "credit": 3,
+            "grade": "P",
+            "category": "교선"
+          },
+          {
+            "course_number": "ICE3002",
+            "name": "확률변수론",
+            "credit": 3,
+            "grade": "B0",
+            "category": "전선"
+          },
+          {
+            "course_number": "ICE2005",
+            "name": "전자회로 1",
+            "credit": 3,
+            "grade": "B+",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE4033",
+            "name": "인터넷프로토콜",
+            "credit": 3,
+            "grade": "P",
+            "category": "전선"
+          }
+        ],
+        "apply": 19,
+        "earned": 19,
+        "total": 38.0,
+        "gpa": 2.92
+      },
+      {
+        "year_term": "2022년도 1학기",
+        "subjects": [
+          {
+            "course_number": "GEB1107",
+            "name": "의사소통 영어",
+            "credit": 3,
+            "grade": "C+",
+            "category": "교필"
+          },
+          {
+            "course_number": "ICE2011",
+            "name": "디지털논리회로",
+            "credit": 3,
+            "grade": "B0",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE2003",
+            "name": "전자기학 1",
+            "credit": 3,
+            "grade": "C0",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE4006",
+            "name": "디지털집적회로설계",
+            "credit": 4,
+            "grade": "A+",
+            "category": "전선"
+          }
+        ],
+        "apply": 13,
+        "earned": 13,
+        "total": 40.5,
+        "gpa": 3.12
+      },
+      {
+        "year_term": "2022년도 2학기",
+        "subjects": [
+          {
+            "course_number": "EEC4100",
+            "name": "전기전자 종합설계",
+            "credit": 3,
+            "grade": "C0",
+            "category": "전필"
+          },
+          {
+            "course_number": "ICE4005",
+            "name": "디지털시스템설계",
+            "credit": 4,
+            "grade": "A0",
+            "category": "전선"
+          },
+          {
+            "course_number": "ICE3015",
+            "name": "임베디드시스템설계",
+            "credit": 4,
+            "grade": "B0",
+            "category": "전선"
+          },
+          {
+            "course_number": "ICE4004",
+            "name": "컴퓨터구조론",
+            "credit": 3,
+            "grade": "C+",
+            "category": "전선"
+          }
+        ],
+        "apply": 14,
+        "earned": 14,
+        "total": 41.5,
+        "gpa": 2.96
+      }
+    ],
+    "summary": {
+      "categories": {
+        "교양필수": 42,
+        "교양선택": 17,
+        "기초전공": 0,
+        "전공필수": 35,
+        "전공선택": 36,
+        "교직": 0,
+        "복수교양필수": 0,
+        "복수전공필수": 0,
+        "복수전공선택": 0,
+        "연계교양필수": 0,
+        "연계전공필수": 0,
+        "연계전공선택": 0,
+        "부전공교양필수": 0,
+        "부전공전공필수": 0,
+        "부전공전공선택": 0,
+        "기술경영학": 0,
+        "기타": 0
+      },
+      "totals": {
+        "신청학점(A)": 130,
+        "취득학점(B)": 130,
+        "평점누계(C)": 350.5,
+        "평점평균(C/A)": 2.7,
+        "평점평균(C/B)": 2.7,
+        "편입(전공/전체)": "0/0"
+      }
+    }
+  }
+}
